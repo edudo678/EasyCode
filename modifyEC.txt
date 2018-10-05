@@ -1,0 +1,47 @@
+Modificações:
+
+-- 7/7
+
+Centralização da *inicialização* e da interface *Main* 
+alteração de gcc permitida no FEBuildComp
+
+centralização e cor palavra "código-fonte" canto esquerdo
+
+
+-- 8/7
+
+Correção de posição e acentuação no cabeçalho - main
+
+no canto direito:
+tutorial --   coloquei o tutorial da versão antiga
+          formatei o tutorial
+
+na sessão de funções mudei os textos
+
+-- 9/7
+
+na classe FEConversor ajeitei o espaçamento nas bibliotecas e do int main
+
+-- 10/7
+
+-- alterei a cor do play e do excluir
+
+-- 11/7
+
+-- mudei o nome da janelinha de alterar o gcc e tbm, nesta mesma, o caminho especificado no FEBuildComp
+
+-- adicionei atalhos no main, especificamente na aba superior arquivo, tirei a outra aba ARQUIVO
+-- corrigi uns erros de mouseEntered do JBcaso no main, da sessão das funções, mexi no botão clique aqui (mudei a cor e text, cor do play do exclui)
+-- alterei o fim do texto do tutorial
+
+-- 4/8
+
+-- correção de bug em salvar em diretório com espaço no nome de usuário
+
+--5/9
+
+--Exclusão das classes test, NewClass e tutorial.
+
+-- 15/9
+
+--Agora salva .ino
